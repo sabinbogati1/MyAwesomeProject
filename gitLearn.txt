@@ -1,0 +1,24 @@
+13579@$^*)
+
+
+
+git branch test1
+
+
+
+git init  // creates repo 
+
+touch Readme.md   // 
+
+git add . // add everything in repo
+
+
+git status //gives status everytime
+
+git commit -m "First commit" //commit 
+
+git log // to see the messsage of commmit
+
+git branch dev// creates dev named branch
+
+git checkout dev//  switch to dec branch
